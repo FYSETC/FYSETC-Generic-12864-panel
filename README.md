@@ -9,3 +9,6 @@ Features：
 3. 5V power supply.
 4. Onboard SD card holder, horizontal or vertical.
 5. The extra EXP3 is 1284P or a motherboard that requires a single display function.
+
+For more details, please refer to: wiki.fysetc.com
+For more questions, please go to: forum.fysetc.com
