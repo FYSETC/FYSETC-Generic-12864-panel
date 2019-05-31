@@ -11,4 +11,5 @@ Features：
 5. The extra EXP3 is 1284P or a motherboard that requires a single display function.
 
 For more details, please refer the [wiki](https://wiki.fysetc.com)
+
 For more questions, please go to our [forum](https://forum.fysetc.com)
